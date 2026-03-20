@@ -1,0 +1,96 @@
+# HANA – ROSE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I'm playing
+all my cards
+I keep them close to my chest
+It don't phase me
+When they all think
+I'm so innocent, yeah
+I'm looking sweet,
+but I'm all dynamite
+(All dynamite)
+Don't believe me,
+when I say that I bite
+Go ahead and try, boy
+Try your best
+知られてる通り I'm dangerous
+Ahh, 危ないの私は
+But you know
+that the choice is yours
+Oh, you might regret
+if you take that step
+Just like a rose
+トゲだらけの
+My heart ain't yours
+醜い世界でも
+咲いた 花 泥だらけでも
+I can't hide no more
+With my beautiful
+Thorns
+Yeah, いつでも人は過ぎ去った
+かれこれ時はだいぶ経った
+え、あいつ咲いた？
+いや多分死んだ
+この baddest
+トゲは自分に刺してた
+If you wanna get closer,
+you can't resist
+Then, baby, move in, get closer
+Can you handle it?
+Go ahead and try, boy
+Try your best
+知られてる通り I'm dangerous
+Ahh, and so now
+that you've been warned
+You know that
+the choice is yours
+Oh, you might regret
+if you take that step
+Just like a rose
+トゲだらけの
+My heart ain't yours
+醜い世界でも
+咲いた 花 泥だらけでも
+I can't hide no more
+With my beautiful
+Thorns
+朝日は昇って but I can't see it
+(人らはしるよしもない)
+また眠りにつくこの現実に
+汗や涙も枯れてきた頃に
+(私のトゲを飲んで)
+まだ立ち上がる私を疑い
+まだまだでもすくんだ足に
+(起き上がれない今日も)
+命がまだあるらしい
+I can't give up まだこの世界に
+(生きてる事を憎んで)
+ありがたいと思いたいらしい
+Just like a rose
+トゲだらけの
+My heart ain't yours
+醜い世界でも
+(誰もいないなら私が fly high
+多少の傷ならもう I'm alright)
+咲いた 花 泥だらけでも
+(今から行くから心配いらない)
+I can't hide no more
+(I'm alive now like
+bloom, bloom, bloom, bloom)
+Just like a rose
+トゲだらけの
+My heart ain't yours
+醜い世界でも
+咲いた 花 泥だらけでも
+I can't hide no more
+With my beautiful
+Thorns
+With my beautiful
+咲いた 花 泥だらけでも
+I can't hide no more
+With my beautiful
+Thorns
+```
