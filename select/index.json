@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "base_track": "ROSE",
+  "base_artist": "HANA",
+  "createdAt": "2026-03-20T08:37:29.853717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "'Til a Tear Becomes a Rose",
+      "artist": "Lorrie Morgan & Keith Whitley",
+      "has_synced": false,
+      "path": "select/01_'Til_a_Tear_Becomes_a_Rose_Lorrie_Morgan_&_Keith_Whitley.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Black Rose",
+      "artist": "Kimberly Kelly",
+      "has_synced": true,
+      "path": "select/02_Black_Rose_Kimberly_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Rose Is",
+      "artist": "Pam Tillis",
+      "has_synced": false,
+      "path": "select/03_Blue_Rose_Is_Pam_Tillis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Buy Me A Rose",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/04_Buy_Me_A_Rose_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "First Rose of Spring",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/05_First_Rose_of_Spring_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New San Antonio Rose",
+      "artist": "Bob Wills & His Texas Playboys",
+      "has_synced": true,
+      "path": "select/06_New_San_Antonio_Rose_Bob_Wills_&_His_Texas_Playboys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New San Antonio Rose",
+      "artist": "Bob Wills And His Texas Playboys",
+      "has_synced": true,
+      "path": "select/07_New_San_Antonio_Rose_Bob_Wills_And_His_Texas_Playboys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New San Antonio Rose (Album Version)",
+      "artist": "Bob Wills & His Texas Playboys",
+      "has_synced": true,
+      "path": "select/08_New_San_Antonio_Rose_(Album_Version)_Bob_Wills_&_His_Texas_Playboys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rose Colored Glasses",
+      "artist": "John Conlee",
+      "has_synced": true,
+      "path": "select/09_Rose_Colored_Glasses_John_Conlee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rose Garden",
+      "artist": "Glen Campbell",
+      "has_synced": false,
+      "path": "select/10_Rose_Garden_Glen_Campbell.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rose Garden",
+      "artist": "Lynn Anderson",
+      "has_synced": true,
+      "path": "select/11_Rose_Garden_Lynn_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rose Garden - Single Version",
+      "artist": "Lynn Anderson",
+      "has_synced": true,
+      "path": "select/12_Rose_Garden_-_Single_Version_Lynn_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rose Garden (Single Version)",
+      "artist": "Lynn Anderson",
+      "has_synced": true,
+      "path": "select/13_Rose_Garden_(Single_Version)_Lynn_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "San Antonio Rose",
+      "artist": "Bob Wills & His Texas Playboys",
+      "has_synced": false,
+      "path": "select/14_San_Antonio_Rose_Bob_Wills_&_His_Texas_Playboys.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Ballad of Sally Rose (Remastered)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/15_The_Ballad_of_Sally_Rose_(Remastered)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Ballad of Sally Rose (2017 Remaster)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/16_The_Ballad_of_Sally_Rose_(2017_Remaster)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Rose",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/17_The_Rose_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Yellow Rose",
+      "artist": "Johnny Lee (With Lane Brody)",
+      "has_synced": false,
+      "path": "select/18_The_Yellow_Rose_Johnny_Lee_(With_Lane_Brody).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROSE",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_ROSE_HANA.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ROSE",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/localdb_01_ROSE_HANA.txt",
+      "repo_name": "rGPd0FyjQ9w"
+    }
+  ]
+}
